@@ -1,6 +1,6 @@
 # Application Specific #
 ############
-random_data_types.csv
+test.csv
 
 # Django #
 ##########
@@ -86,5 +86,10 @@ venv.bak/
 ############
 .vscode/
 
+# Pytest #
+##########
+.pytest_cache/
+.pytest_tmpdir/
+.benchmarks/
 
 
