@@ -1,0 +1,90 @@
+# Application Specific #
+############
+random_data_types.csv
+
+# Django #
+##########
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
+# Python #
+##########
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyCharm #
+############
+.idea/
+*.iml
+*.iws
+out/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/datasources.xml
+.idea/dataSources.ids
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/gradle.xml
+.idea/libraries
+*.iws
+.idea/modules.xml
+.idea/*.iml
+.idea/modules
+*.iml
+*.iws
+.idea/
+
+# Virtualenv #
+##############
+.venv/
+ENV/
+env/
+venv/
+ENV.bak/
+env.bak/
+venv.bak/
+
+# Spyder #
+##########
+.spyderproject
+.spyproject
+
+# Jupyter Notebook #
+####################
+.ipynb_checkpoints
+
+# VS Code #
+############
+.vscode/
+
+
+
